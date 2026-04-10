@@ -3,13 +3,13 @@
 **A.Aim:**
 
 To measure isolation between E and Harms of the magic tee and Demonstrate 3 dB powerdivision in the arm of magic tree.
- 
+
 **B.Apparatus Used:**
 
 Klystron power supply, Klystron Mount, Isolator, Attenuator, Frequency meter, VSWR meter,magic tee and matched terminations.
 
 **C.Experimental Setup:**
- 
+
 <img width="701" height="358" alt="image" src="https://github.com/user-attachments/assets/8619d64e-d78f-49e2-b0f8-2e2dc038f6c9" />
 
 **D.Theory:**
@@ -61,18 +61,25 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
+**F.	Observation:**
 
-**Isolation measurement** (Tabulation)
+<img width="1076" height="204" alt="image" src="https://github.com/user-attachments/assets/ffc35e8b-a2c3-4534-9ee2-9b9fcc851645" />
 
-**Measurement of power division** (Tabulation)
+<img width="1080" height="224" alt="image" src="https://github.com/user-attachments/assets/daf889e7-93e8-426a-8243-77ab37678a24" />
 
+</br>
+</br>
+</br>
+</br>
 
-**G.	Analysis of Results: (Write your own)**
+**G.	Analysis of Results:**
 
-(Include sample calculations/Display/plot/typical graph)
+Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB.
+Interpretation: only ~1/79 of the power fed into the E-arm appears at the H-arm (good isolation).
+Power division (coupling to collinear arm) = A₁ − A₂ = 20.0 − 17.0 = 3.0 dB.
+Interpretation: input power splits equally between the two collinear arms (each receives ≈ half the power).
 
-**H.	Conclusions: (Write your Own)**
+**H.	Conclusions:**
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
 Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
@@ -80,7 +87,18 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 **Precautions:**
 
 •	Check the connections before switching on the kit.
+
 •	Connections should be done properly.
+
 •	Observation should be taken properly.
 
+</br>
+</br>
+
 **Result:**
+
+Isolation between E and H arms ≈ 19 dB,
+
+power division in the collinear arms ≈ 3 dB (equal split).
+
+Thus, the experiment executed successfully.
