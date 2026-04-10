@@ -9,7 +9,7 @@ To measure isolation between E and Harms of the magic tee and Demonstrate 3 dB p
 Klystron power supply, Klystron Mount, Isolator, Attenuator, Frequency meter, VSWR meter,magic tee and matched terminations.
 
 **C.Experimental Setup:**
-
+ 
 <img width="701" height="358" alt="image" src="https://github.com/user-attachments/assets/8619d64e-d78f-49e2-b0f8-2e2dc038f6c9" />
 
 **D.Theory:**
